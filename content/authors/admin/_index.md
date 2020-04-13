@@ -23,6 +23,7 @@ bio: My research interests include spatial navigation, memory and other higher-l
 interests:
 - Spatial navigation
 - Memory
+- Alzheimer's disease
 - Single-neuron recordings
 - Intracranial EEG
 - Functional MRI
