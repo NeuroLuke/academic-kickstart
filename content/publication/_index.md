@@ -13,3 +13,8 @@ header:
   caption: ""
   image: ""
 ---
+
+# publication
+title: A neural code for egocentric spatial maps in the human medial temporal lobe
+publication_types: "3"
+publication: bioRxiv
