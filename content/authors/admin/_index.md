@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Lukas Kunz
+name: Dr. Lukas Kunz
 
 # Username (this should match the folder name)
 authors:
@@ -15,15 +15,17 @@ role: Cognitive neuroscientist
 # Organizations/Affiliations
 organizations:
 - name: University Hospital Freiburg, Germany
-  url: ""
+  url: "https://www.uniklinik-freiburg.de/epilepsy.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include spatial navigation, memory and other higher-level cognitive functions in humans.
 
 interests:
 - Spatial navigation
 - Memory
 - Single-neuron recordings
+- Intracranial EEG
+- Functional MRI
 
 education:
   courses:
@@ -70,4 +72,4 @@ user_groups:
 - Visitors
 ---
 
-Lukas Kunz is a postdoctoral fellow at the Epilepsy Center of the University Hospital Freiburg. His research focuses on the neural foundations of spatial navigation and memory. His research methods include single-neuron recordings from the human brain, intracranial EEG, fMRI, and virtual reality.
+I am a cognitive neuroscientist at the Epilepsy Center of the University Hospital Freiburg, Germany. My research focuses on the neural foundations of spatial navigation and memory in humans. To unravel key mechanisms underlying these functions, I employ cutting-edge research methods including single-neuron recordings, intracranial EEG, and functional MRI.
