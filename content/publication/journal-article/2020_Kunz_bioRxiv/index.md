@@ -1,12 +1,18 @@
 ---
-title: "Mesoscopic Neural Representations in Spatial Navigation"
+title: "A neural code for egocentric spatial maps in the human medial temporal lobe"
 authors:
 - Lukas Kunz
-- Shachar Maidenbaum
-- Dong Chen
-- Liang Wang
+- Armin Brandt
+- Peter C. Reinacher
+- Bernhard P. Staresina
+- Eric T. Reifenstein
+- Christoph T. Weidemann
+- Nora A. Herweg
+- Melina Tsitsiklis
+- Richard Kempter
+- Michael J. Kahana
+- Andreas Schulze-Bonhage
 - Joshua Jacobs
-- Nikolai Axmacher
 date: "2019-05-23T00:00:00Z"
 doi: ""
 
