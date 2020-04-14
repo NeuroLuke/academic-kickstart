@@ -1,8 +1,24 @@
 ---
-title: "Theta"
+title: "Hippocampal theta phases organize the reactivation of large-scale electrophysiological representations during goal-directed navigation"
 authors:
 - admin
-- Lukas Kunz
+- Liang Wang
+- Daniel Lachner-Piza
+- Hui Zhang
+- Armin Brandt
+- Matthias Dümpelmann
+- Peter C. Reinacher
+- Volker A. Coenen
+- Dong Chen
+- Wen-Xu Wang
+- Wenjing Zhou
+- Shuli Liang
+- Philip Grewe
+- Christian G. Bien
+- Anne Bierbrauer
+- Tobias Navarro Schröder
+- Andreas Schulze-Bonhage
+- Nikolai Axmacher
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
