@@ -35,7 +35,7 @@ featured: false
 # links:
 # - name: ""
 url: ""
-url_pdf: ""
+url_pdf: http://orion.bme.columbia.edu/jacobs/pubs/KunzEtal19.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
