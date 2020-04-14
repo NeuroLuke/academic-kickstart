@@ -1,5 +1,5 @@
 ---
-title: "Hexadirectional Modulation of Theta Power inHuman Entorhinal Cortex during Spatial Navigation"
+title: "Hexadirectional Modulation of Theta Power in Human Entorhinal Cortex during Spatial Navigation"
 authors:
 - Dong Chen
 - Lukas Kunz
