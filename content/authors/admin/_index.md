@@ -24,6 +24,7 @@ interests:
 - Spatial navigation
 - Memory
 - Alzheimer's disease
+- Epilepsy
 - Single-neuron recordings
 - Intracranial EEG
 - Functional MRI
@@ -73,4 +74,4 @@ user_groups:
 - Visitors
 ---
 
-I am a cognitive neuroscientist at the Epilepsy Center of the University Hospital Freiburg, Germany. My research focuses on the neural foundations of spatial navigation and memory in humans. To unravel key mechanisms underlying these functions, I employ cutting-edge research methods including single-neuron recordings, intracranial EEG, and functional MRI.
+I am a cognitive neuroscientist at the Epilepsy Center of the University Hospital Freiburg, Germany. My research focuses on the neurobiological foundations of spatial navigation and memory in humans. To unravel the neural key mechanisms underlying these functions, I employ cutting-edge research methods including single-neuron recordings, intracranial EEG, and functional MRI.
