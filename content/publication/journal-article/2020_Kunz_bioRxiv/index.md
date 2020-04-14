@@ -29,10 +29,10 @@ publication_types: ["3"]
 publication: "*Trends in Cognitive Sciences*"
 publication_short: ""
 
-abstract: Recent evidence suggests that mesoscopic neural oscillations measured via intracranial electroencephalography exhibit spatial representations, which were previously only observed at the micro- and macroscopic level of brain organization. Specifically, theta (and gamma) oscillations correlate with movement, speed, distance, specific locations, and goal proximity to boundaries. In entorhinal cortex (EC), they exhibit hexadirectional modulation, which is putatively linked to grid cell activity. Understanding this mesoscopic neural code is crucial because information represented by oscillatory power and phase may complement the information content at other levels of brain organization. Mesoscopic neural oscillations help bridge the gap between single-neuron and macroscopic brain signals of spatial navigation and may provide a mechanistic basis for novel biomarkers and therapeutic targets to treat diseases causing spatial disorientation.
+abstract:  Spatial navigation relies on neural systems that encode spatial information relative to the external world or relative to the navigating organism. Ever since the proposal of cognitive maps, the neuroscience of spatial navigation has focused on allocentric (world-referenced) representations such as place cells. Here, using single-neuron recordings during virtual navigation, we reveal a neural code for egocentric (self-centered) spatial information in humans: anchor cells represent egocentric directions towards proximal anchor points located in the environmental center or periphery. Anchor cells were abundant in parahippocampal cortex, supported full vectorial representations of egocentric space, and were integrated into a neural memory network. Anchor cells may thus facilitate egocentric navigation strategies, assist in transforming percepts into allocentric spatial representations, and may underlie the first-person perspective in episodic memories..
 
 # Summary. An optional shortened abstract.
-summary: Trends in Cognitive Sciences, 2019
+summary: bioRxiv, 2020
 
 tags:
 - Source Themes
