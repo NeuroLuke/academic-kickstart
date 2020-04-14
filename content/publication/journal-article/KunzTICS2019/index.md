@@ -35,7 +35,7 @@ featured: false
 # links:
 # - name: ""
 url: ""
-url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S1364661319301032
+url_pdf: http://orion.bme.columbia.edu/jacobs/pubs/KunzEtal19.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
