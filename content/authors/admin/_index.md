@@ -27,7 +27,7 @@ interests:
 - Epilepsy
 - Single-neuron recordings
 - Intracranial EEG
-- Functional MRI
+- Functional and structural MRI
 
 education:
   courses:
