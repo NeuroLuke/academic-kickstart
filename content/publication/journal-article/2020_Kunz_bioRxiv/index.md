@@ -40,8 +40,8 @@ featured: false
 
 # links:
 # - name: ""
-url: ""
-url_pdf: https://www.biorxiv.org/content/10.1101/2020.03.03.973131v2.full.pdf
+# url: ""
+url_pdf: ""
 url_code: ''
 url_dataset: ''
 url_poster: ''
