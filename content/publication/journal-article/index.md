@@ -19,7 +19,7 @@ authors:
 - Tobias Navarro Schröder
 - Andreas Schulze-Bonhage
 - Nikolai Axmacher
-date: "2015-09-01T00:00:00Z"
+date: "2019-07-03T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
