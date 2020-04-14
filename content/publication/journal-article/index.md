@@ -1,29 +1,22 @@
 ---
-title: "Hippocampal theta phases organize the reactivation of large-scale electrophysiological representations during goal-directed navigation"
+title: "Hexadirectional Modulation of Theta Power in Human Entorhinal Cortex during Spatial Navigation"
 authors:
-- Lukas Kunz
-- Liang Wang
-- Daniel Lachner-Piza
-- Hui Zhang
-- Armin Brandt
-- Matthias Dümpelmann
-- Peter C. Reinacher
-- Volker A. Coenen
 - Dong Chen
+- Lukas Kunz
+- Wenjing Wang
+- Hui Zhang
 - Wen-Xu Wang
+- Andreas Schulze-Bonhage
+- Peter C. Reinacher
 - Wenjing Zhou
 - Shuli Liang
-- Philip Grewe
-- Christian G. Bien
-- Anne Bierbrauer
-- Tobias Navarro Schröder
-- Andreas Schulze-Bonhage
 - Nikolai Axmacher
-date: "2019-07-03T00:00:00Z"
+- Liang Wang
+date: "2018-10-22T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-07-03T00:00:00Z"
+publishDate: "2018-10-22T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -32,13 +25,13 @@ publishDate: "2019-07-03T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Science Advances*"
+publication: "*Current Biology*"
 publication_short: ""
 
-abstract: Humans are adept in simultaneously following multiple goals, but the neural mechanisms for maintaining specific goals and distinguishing them from other goals are incompletely understood. For short time scales, working memory studies suggest that multiple mental contents are maintained by theta-coupled reactivation, but evidence for similar mechanisms during complex behaviors such as goal-directed navigation is scarce. We examined intracranial electroencephalography recordings of epilepsy patients performing an object-location memory task in a virtual environment. We report that large-scale electrophysiological representations of objects that cue for specific goal locations are dynamically reactivated during goal-directed navigation. Reactivation of different cue representations occurred at stimulus-specific hippocampal theta phases. Locking to more distinct theta phases predicted better memory performance, identifying hippocampal theta phase coding as a mechanism for separating competing goals. Our findings suggest shared neural mechanisms between working memory and goal-directed navigation and provide new insights into the functions of the hippocampal theta rhythm.
+abstract: Grid cells and theta oscillations are fundamental components of the brainâ€™s navigation system. Grid cells provide animals [1, 2] and humans [3, 4] with a spatial map of the environment by exhibiting multiple firing fields arranged in a regular grid of equilateral triangles. This unique firing pattern presumably constitutes the neural basis for path integration [5â€“8] and may also enable navigation in visual and conceptual spaces [9â€“12]. Theta frequency oscillations are a prominent mesoscopic network phenomenon during navigation in both rodents and humans [13, 14] and encode movement speed [15â€“17], distance traveled [18], and proximity to spatial boundaries [19]. Whether theta oscillations may also carry a grid-like signal remains elusive, however. Capitalizing on previous fMRI studies revealing a macroscopic proxy of sum grid cell activity in human entorhinal cortex (EC) [20â€“22], we examined intracranial EEG recordings from the EC of epilepsy patients (n = 9) performing a virtual navigation task. We found that the power of theta oscillations (4â€“8 Hz) exhibits 6-fold rotational modulation by movement direction, reminiscent of grid cell-like representations detected using fMRI. Modulation of theta power was specific to 6-fold rotational symmetry and to the EC. Hexadirectional modulation of theta power by movement direction only emerged during fast movements, stabilized over the course of the experiment, and showed sensitivity to the environmental boundary. Our results suggest that oscillatory power in the theta frequency range carries an imprint of sum grid cell activity potentially enabled by a common grid orientation of neighboring grid cells [23].
 
 # Summary. An optional shortened abstract.
-summary: Hippocampal theta cycles provide a means to maintain and segregate different goal representations during human wayfinding.
+summary: 
 
 tags:
 - Source Themes
@@ -47,7 +40,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://advances.sciencemag.org/content/advances/5/7/eaav8192.full.pdf
+url_pdf: https://www.cell.com/current-biology/pdfExtended/S0960-9822(18)31113-8
 url_code: ''
 url_dataset: ''
 url_poster: ''
