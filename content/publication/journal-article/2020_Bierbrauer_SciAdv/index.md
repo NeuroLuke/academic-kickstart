@@ -1,5 +1,5 @@
 ---
-title: "Hippocampal theta phases organize the reactivation of large-scale electrophysiological representations during goal-directed navigation"
+title: "Unmasking selective path integration deficits in Alzheimer’s disease risk carriers"
 authors:
 - Anne Bierbrauer
 - Lukas Kunz
