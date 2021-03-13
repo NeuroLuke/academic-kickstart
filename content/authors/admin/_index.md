@@ -14,8 +14,8 @@ role: Cognitive neuroscientist
 
 # Organizations/Affiliations
 organizations:
-- name: University Hospital Freiburg, Germany
-  url: "https://www.uniklinik-freiburg.de/epilepsy.html"
+- name: Columbia University, New York, USA
+  url: "http://orion.bme.columbia.edu/jacobs/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include spatial navigation, memory and other higher-level cognitive functions in humans.
@@ -74,4 +74,4 @@ user_groups:
 - Visitors
 ---
 
-I am a cognitive neuroscientist at the Epilepsy Center of the University Hospital Freiburg, Germany. My research focuses on the neurobiological foundations of spatial navigation and memory in humans. To unravel the neural key mechanisms underlying these functions, I employ cutting-edge research methods including single-neuron recordings, intracranial EEG, and functional MRI.
+I am a cognitive neuroscientist at Columbia University in the City of New York. My research focuses on the neurobiological foundations of spatial navigation and memory in humans. To unravel the neural key mechanisms underlying these functions, I employ cutting-edge research methods including single-neuron recordings, intracranial EEG, and functional MRI.
