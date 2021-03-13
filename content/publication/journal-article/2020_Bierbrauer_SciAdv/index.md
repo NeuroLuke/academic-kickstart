@@ -1,31 +1,29 @@
 ---
-title: "Unmasking selective path integration deficits in Alzheimer’s disease risk carriers"
+title: "Unmasking"
 authors:
-- Anne Bierbrauer
 - Lukas Kunz
-- Carlos A. Gomes
-- Maike Luhmann
-- Lorena Deuker
-- Stephan Getzmann
-- Edmund Wascher
-- Patrick D. Gajewski
-- Jan G. Hengstler
-- Marina Fernandez-Alvarez
-- Mercedes Atienza
-- Davide M. Cammisuli
-- Francesco Bonatti
-- Carlo Pruneti
-- Antonio Percesepe
-- Youssef Bellaali
-- Bernard Hanseeuw
-- Bryan A. Strange
-- Jose L. Cantero
+- Liang Wang
+- Daniel Lachner-Piza
+- Hui Zhang
+- Armin Brandt
+- Matthias Dümpelmann
+- Peter C. Reinacher
+- Volker A. Coenen
+- Dong Chen
+- Wen-Xu Wang
+- Wenjing Zhou
+- Shuli Liang
+- Philip Grewe
+- Christian G. Bien
+- Anne Bierbrauer
+- Tobias Navarro Schröder
+- Andreas Schulze-Bonhage
 - Nikolai Axmacher
-date: "2020-01-31T00:00:00Z"
+date: "2019-07-03T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-01-31T00:00:00Z"
+publishDate: "2019-07-03T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -37,10 +35,10 @@ publication_types: ["2"]
 publication: "*Science Advances*"
 publication_short: ""
 
-abstract: Alzheimer’s disease (AD) manifests with progressive memory loss and spatial disorientation. Neuropathological studies suggest early AD pathology in the entorhinal cortex (EC) of young adults at genetic risk for AD (APOE ε4-carriers). Because the EC harbors grid cells, a likely neural substrate of path integration (PI), we examined PI performance in APOE ε4-carriers during a virtual navigation task. We report a selective impairment in APOE ε4-carriers specifically when recruitment of compensatory navigational strategies via supportive spatial cues was disabled. A separate fMRI study revealed that PI performance was associated with the strength of entorhinal grid-like representations when no compensatory strategies were available, suggesting grid cell dysfunction as a mechanistic explanation for PI deficits in APOE ε4-carriers. Furthermore, posterior cingulate/retrosplenial cortex was involved in the recruitment of compensatory navigational strategies via supportive spatial cues. Our results provide evidence for selective PI deficits in AD risk carriers, decades before potential disease onset.
+abstract: Humans are adept in simultaneously following multiple goals, but the neural mechanisms for maintaining specific goals and distinguishing them from other goals are incompletely understood. For short time scales, working memory studies suggest that multiple mental contents are maintained by theta-coupled reactivation, but evidence for similar mechanisms during complex behaviors such as goal-directed navigation is scarce. We examined intracranial electroencephalography recordings of epilepsy patients performing an object-location memory task in a virtual environment. We report that large-scale electrophysiological representations of objects that cue for specific goal locations are dynamically reactivated during goal-directed navigation. Reactivation of different cue representations occurred at stimulus-specific hippocampal theta phases. Locking to more distinct theta phases predicted better memory performance, identifying hippocampal theta phase coding as a mechanism for separating competing goals. Our findings suggest shared neural mechanisms between working memory and goal-directed navigation and provide new insights into the functions of the hippocampal theta rhythm.
 
 # Summary. An optional shortened abstract.
-summary: Science Advances, 2020
+summary: Science Advances, 2019
 
 tags:
 - Source Themes
@@ -49,7 +47,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://advances.sciencemag.org/content/advances/6/35/eaba1394.full.pdf
+url_pdf: https://advances.sciencemag.org/content/advances/5/7/eaav8192.full.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
