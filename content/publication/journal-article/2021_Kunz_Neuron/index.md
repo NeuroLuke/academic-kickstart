@@ -8,31 +8,32 @@ authors:
 - Eric T. Reifenstein
 - Christoph T. Weidemann
 - Nora A. Herweg
+- Ansh Patel
 - Melina Tsitsiklis
 - Richard Kempter
 - Michael J. Kahana
 - Andreas Schulze-Bonhage
 - Joshua Jacobs
-date: "2020-03-31T00:00:00Z"
+date: "2021-07-14T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-03-31T00:00:00Z"
+publishDate: "2021-07-14T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*bioRxiv*"
+publication: "*Neuron*"
 publication_short: ""
 
 abstract:
 
 # Summary. An optional shortened abstract.
-summary: bioRxiv, 2020
+summary: Neuron, in press
 
 tags:
 - Source Themes
