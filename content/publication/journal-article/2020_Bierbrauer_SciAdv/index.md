@@ -1,9 +1,9 @@
 ---
 title: "Unmasking selective path integration deficits in Alzheimer’s disease risk carriers"
 authors:
-- Anne Bierbrauer
-- Lukas Kunz
-- Carlos A. Gomes
+- Anne Bierbrauer*
+- Lukas Kunz*
+- Carlos A. Gomes*
 - Maike Luhmann
 - Lorena Deuker
 - Stephan Getzmann
