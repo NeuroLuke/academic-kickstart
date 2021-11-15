@@ -1,9 +1,9 @@
 ---
 title: "Mesoscopic Neural Representations in Spatial Navigation"
 authors:
-- Lukas Kunz
-- Shachar Maidenbaum
-- Dong Chen
+- Lukas Kunz*
+- Shachar Maidenbaum*
+- Dong Chen*
 - Liang Wang
 - Joshua Jacobs
 - Nikolai Axmacher
