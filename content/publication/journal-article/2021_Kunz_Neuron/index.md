@@ -33,7 +33,7 @@ publication_short: ""
 abstract:
 
 # Summary. An optional shortened abstract.
-summary: Neuron, in press
+summary: Neuron, 2021
 
 tags:
 - Source Themes
