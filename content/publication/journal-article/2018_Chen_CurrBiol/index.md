@@ -1,8 +1,8 @@
 ---
 title: "Hexadirectional Modulation of Theta Power in Human Entorhinal Cortex during Spatial Navigation"
 authors:
-- Dong Chen
-- Lukas Kunz
+- Dong Chen*
+- Lukas Kunz*
 - Wenjing Wang
 - Hui Zhang
 - Wen-Xu Wang
