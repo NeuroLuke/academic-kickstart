@@ -19,10 +19,10 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "VolkswagenStiftung (rejected)"
+  organization = "VolkswagenStiftung (not funded)"
   organization_url = "https://www.volkswagenstiftung.de/en/funding/our-funding-portfolio-at-a-glance/experiment"
   title = "Navigating emotions using grid cells"
-  url = "https://github.com/NeuroLuke/academic-kickstart/blob/master/content/projects/Experiment2018_rejected/Kunz_EmotionGrids_290420.pdf"
+  url = "https://github.com/NeuroLuke/academic-kickstart/blob/master/content/projects/Experiment2018/Kunz_EmotionGrids_20181128.pdf"
 # certificate_url = ""
   date_start = "2018-10-01"
   date_end = ""
