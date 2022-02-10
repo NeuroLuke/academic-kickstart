@@ -19,15 +19,15 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 
-#[[item]]
-#  organization = "VolkswagenStiftung (not funded)"
-#  organization_url = "https://www.volkswagenstiftung.de/en/funding/our-funding-portfolio-at-a-glance/freigeist-fellowships"
-#  title = "A single-neuron architecture for imagination in the human brain"
-#  url = "https://github.com/NeuroLuke/academic-kickstart/blob/master/content/projects/Freigeist2021/Kunz_FreigeistProposal2021.pdf"
-## certificate_url = ""
-#  date_start = 2022-01-19"
-#  date_end = ""
-#  description = ""
+[[item]]
+  organization = "VolkswagenStiftung (not funded)"
+  organization_url = "https://www.volkswagenstiftung.de/en/funding/our-funding-portfolio-at-a-glance/freigeist-fellowships"
+  title = "A single-neuron architecture for imagination in the human brain"
+  url = "https://github.com/NeuroLuke/academic-kickstart/blob/master/content/projects/Freigeist2021/Kunz_FreigeistProposal2021.pdf"
+# certificate_url = ""
+  date_start = "2022-01-19"
+  date_end = ""
+  description = ""
 
 [[item]]
   organization = "German Research Foundation (funded)"
