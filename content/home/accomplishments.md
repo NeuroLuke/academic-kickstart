@@ -29,15 +29,15 @@ date_format = "Jan 2006"
 #  date_end = ""
 #  description = ""
 
-#[[item]]
-#  organization = "German Research Foundation (funded)"
-#  organization_url = "https://www.dfg.de/en/research_funding/programmes/individual/walter_benjamin/"
-#  title = "Neuronal mechanisms of associative memory formation in the human medial temporal lobe"
-#  url = "https://github.com/NeuroLuke/academic-kickstart/blob/master/content/projects/WalterBenjamin2021/Kunz_WalterBenjamin2020.pdf"
-## certificate_url = ""
-#  date_start = "2020-06-19"
-#  date_end = ""
-#  description = ""
+[[item]]
+  organization = "German Research Foundation (funded)"
+  organization_url = "https://www.dfg.de/en/research_funding/programmes/individual/walter_benjamin/"
+  title = "Neuronal mechanisms of associative memory formation in the human medial temporal lobe"
+  url = "https://github.com/NeuroLuke/academic-kickstart/blob/master/content/projects/WalterBenjamin2021/Kunz_WalterBenjamin2020.pdf"
+# certificate_url = ""
+  date_start = "2020-06-19"
+  date_end = ""
+  description = ""
 
 [[item]]
   organization = "VolkswagenStiftung (not funded)"
