@@ -47,7 +47,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://advances.sciencemag.org/content/advances/5/7/eaav8192.full.pdf
+url_pdf: https://www.science.org/doi/pdf/10.1126/sciadv.aav8192
 url_code: ''
 url_dataset: ''
 url_poster: ''
