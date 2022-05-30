@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Lukas Kunz
+name: Lukas Kunz, MD, PhD
 
 # Username (this should match the folder name)
 authors:
@@ -31,13 +31,16 @@ interests:
 
 education:
   courses:
+  - course: Dr. rer. nat.
+    institution: University of Freiburg
+    year: 2022
   - course: Dr. med.
     institution: University of Bonn
     year: 2017
-  - course: MD
+  - course: Human medicine (state examination)
     institution: University of Bonn
     year: 2017
-  - course: BA Philosophy and German Studies
+  - course: Philosophy and German Studies (BA)
     institution: University of Bonn
     year: 2018
 
