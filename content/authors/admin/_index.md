@@ -14,8 +14,8 @@ role: Cognitive neuroscientist
 
 # Organizations/Affiliations
 organizations:
-- name: Columbia University, New York, USA
-  url: "http://orion.bme.columbia.edu/jacobs/"
+- name: University of Bonn, Bonn, Germany
+  url: "https://www.ukbonn.de/en/epileptology/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include spatial navigation, memory and other higher-level cognitive functions in humans.
@@ -63,9 +63,9 @@ social:
 #  link: https://github.com/NeuroLuke
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -77,4 +77,4 @@ user_groups:
 - Visitors
 ---
 
-I am a cognitive neuroscientist at Columbia University in the City of New York. My research focuses on the neurobiological foundations of spatial navigation and memory in humans. To unravel the neural key mechanisms underlying these functions, I employ cutting-edge research methods including single-neuron recordings, intracranial EEG, and functional MRI.
+My research focuses on understanding the neural mechanisms that underlie spatial navigation and memory in humans. Using behavioral virtual-reality tasks in combination with human single-neuron recordings, I aim to identify specific types of neurons and brain oscillations that allow humans to successfully navigate their environments and to remember past experiences in these environments. In translational studies, I build on the fundamental insights from the single-neuron recordings to understand how neural mechanisms of spatial navigation and memory are impaired in adults at risk for Alzheimer’s disease. Using electrical brain stimulation, I investigate whether impaired mechanisms of navigation and memory can be restored. My research thus provides insights into the workings of the human brain, identifies their impairments in Alzheimer’s disease, and explores novel ways to modulate neural activity in humans.
